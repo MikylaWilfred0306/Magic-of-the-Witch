@@ -1,5 +1,5 @@
 # Magic-of-the-Witch
-This is the start of an rpg unity game. 
+This is a rpg unity game. 
 The project was for my capstone in my senior year of college. The presentation is the uploaded pdf.
 
 ## The Story
