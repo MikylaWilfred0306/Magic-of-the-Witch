@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: a1d26bfdd9389374ead14bcc6fe204d7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: baby:bodty_test:group1
+    100004: baby:bodty_test:group2
+    100006: baby:bodty_test:polySurface111
+    100008: baby:bodty_test:polySurface112
+    100010: baby:bodty_test:polySurface41
+    100012: baby:bodty_test:transform3
+    100014: baby:body_test:anna:Polygon
+    100016: baby:body_test:Cartoon_Character_Shoe:pCube1
+    100018: baby:body_test:Cartoon_Character_Shoe:polySurface1
+    100020: baby:body_test:Cartoon_Character_Shoe:polySurface10
+    100022: baby:body_test:Cartoon_Character_Shoe:polySurface12
+    100024: baby:body_test:Cartoon_Character_Shoe:polySurface14
+    100026: baby:body_test:Cartoon_Character_Shoe:polySurface15
+    100028: baby:body_test:Cartoon_Character_Shoe:polySurface2
+    100030: baby:body_test:Cartoon_Character_Shoe:polySurface23
+    100032: baby:body_test:Cartoon_Character_Shoe:polySurface25
+    100034: baby:body_test:Cartoon_Character_Shoe:polySurface26
+    100036: baby:body_test:Cartoon_Character_Shoe:polySurface28
+    100038: baby:body_test:Cartoon_Character_Shoe:polySurface3
+    100040: baby:body_test:Cartoon_Character_Shoe:polySurface5
+    100042: baby:body_test:Cartoon_Character_Shoe:polySurface6
+    100044: baby:body_test:Cartoon_Character_Shoe:polySurface7
+    100046: baby:body_test:Cartoon_Character_Shoe:polySurface9
+    100048: baby:body_test:Cartoon_Character_Shoe:transform11
+    100050: baby:body_test:Cartoon_Character_Shoe:transform13
+    100052: baby:body_test:Cartoon_Character_Shoe:transform14
+    100054: baby:body_test:Cartoon_Character_Shoe:transform15
+    100056: baby:body_test:Cartoon_Character_Shoe:transform16
+    100058: baby:body_test:Cartoon_Character_Shoe:transform2
+    100060: baby:body_test:Cartoon_Character_Shoe:transform4
+    100062: baby:body_test:Cartoon_Character_Shoe:transform6
+    100064: baby:body_test:Cartoon_Character_Shoe:transform7
+    100066: baby:body_test:Cartoon_Character_Shoe:transform9
+    100068: baby:body_test:group1
+    100070: baby:body_test:group2
+    100072: baby:body_test:group3
+    100074: baby:body_test:hands_create:back
+    100076: baby:body_test:hands_create:imagePlane1
+    100078: baby:body_test:hands_create:polySurface9
+    100080: baby:body_test:hands_create:top1
+    100082: baby:body_test:pCube1
+    100084: baby:body_test:transform1
+    100086: baby:body_test:turnTableCamera1
+    100088: baby:body_test:turnTableCamera2
+    100090: baby:body_test:turnTableCamera4
+    100092: baby:body_test:turnTableCamera5
+    400000: //RootNode
+    400002: baby:bodty_test:group1
+    400004: baby:bodty_test:group2
+    400006: baby:bodty_test:polySurface111
+    400008: baby:bodty_test:polySurface112
+    400010: baby:bodty_test:polySurface41
+    400012: baby:bodty_test:transform3
+    400014: baby:body_test:anna:Polygon
+    400016: baby:body_test:Cartoon_Character_Shoe:pCube1
+    400018: baby:body_test:Cartoon_Character_Shoe:polySurface1
+    400020: baby:body_test:Cartoon_Character_Shoe:polySurface10
+    400022: baby:body_test:Cartoon_Character_Shoe:polySurface12
+    400024: baby:body_test:Cartoon_Character_Shoe:polySurface14
+    400026: baby:body_test:Cartoon_Character_Shoe:polySurface15
+    400028: baby:body_test:Cartoon_Character_Shoe:polySurface2
+    400030: baby:body_test:Cartoon_Character_Shoe:polySurface23
+    400032: baby:body_test:Cartoon_Character_Shoe:polySurface25
+    400034: baby:body_test:Cartoon_Character_Shoe:polySurface26
+    400036: baby:body_test:Cartoon_Character_Shoe:polySurface28
+    400038: baby:body_test:Cartoon_Character_Shoe:polySurface3
+    400040: baby:body_test:Cartoon_Character_Shoe:polySurface5
+    400042: baby:body_test:Cartoon_Character_Shoe:polySurface6
+    400044: baby:body_test:Cartoon_Character_Shoe:polySurface7
+    400046: baby:body_test:Cartoon_Character_Shoe:polySurface9
+    400048: baby:body_test:Cartoon_Character_Shoe:transform11
+    400050: baby:body_test:Cartoon_Character_Shoe:transform13
+    400052: baby:body_test:Cartoon_Character_Shoe:transform14
+    400054: baby:body_test:Cartoon_Character_Shoe:transform15
+    400056: baby:body_test:Cartoon_Character_Shoe:transform16
+    400058: baby:body_test:Cartoon_Character_Shoe:transform2
+    400060: baby:body_test:Cartoon_Character_Shoe:transform4
+    400062: baby:body_test:Cartoon_Character_Shoe:transform6
+    400064: baby:body_test:Cartoon_Character_Shoe:transform7
+    400066: baby:body_test:Cartoon_Character_Shoe:transform9
+    400068: baby:body_test:group1
+    400070: baby:body_test:group2
+    400072: baby:body_test:group3
+    400074: baby:body_test:hands_create:back
+    400076: baby:body_test:hands_create:imagePlane1
+    400078: baby:body_test:hands_create:polySurface9
+    400080: baby:body_test:hands_create:top1
+    400082: baby:body_test:pCube1
+    400084: baby:body_test:transform1
+    400086: baby:body_test:turnTableCamera1
+    400088: baby:body_test:turnTableCamera2
+    400090: baby:body_test:turnTableCamera4
+    400092: baby:body_test:turnTableCamera5
+    2000000: baby:body_test:hands_create:back
+    2000002: baby:body_test:hands_create:top1
+    2000004: baby:body_test:turnTableCamera1
+    2000006: baby:body_test:turnTableCamera2
+    2000008: baby:body_test:turnTableCamera4
+    2000010: baby:body_test:turnTableCamera5
+    2100000: lambert1
+    2100002: baby_bodty_test_lambert2
+    2100004: baby_bodty_test_lambert4
+    2100006: baby_bodty_test_lambert3
+    2300000: baby:bodty_test:polySurface111
+    2300002: baby:bodty_test:polySurface112
+    2300004: baby:body_test:hands_create:polySurface9
+    2300006: baby:body_test:pCube1
+    3300000: baby:bodty_test:polySurface111
+    3300002: baby:bodty_test:polySurface112
+    3300004: baby:body_test:hands_create:polySurface9
+    3300006: baby:body_test:pCube1
+    4300000: baby:body_test:pCube1
+    4300002: baby:body_test:hands_create:polySurface9
+    4300004: baby:bodty_test:polySurface111
+    4300006: baby:bodty_test:polySurface112
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
